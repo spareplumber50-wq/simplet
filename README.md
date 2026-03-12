@@ -1,5 +1,3 @@
 # simplet
-Simplet is an opensource shell takeover script that automatically reroutes network traffic to a cloudflare endpoint
-
-
-this is a virus !!!!
+Simplet is a batchfile that can be run while in the login screen using the utilman.exe exploit
+it creates a "Guest" profile with admin rights the password is 18866
